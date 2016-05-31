@@ -29,7 +29,7 @@ The project will be a collaboration between our Education and Curriculum Manager
 * Photography workshop every Monday (8 Students) 
 * Social Media awareness every Thursday (5 Students) 
 * Cafe project every Monday/Tuesday (8 Students) 
-* Prestonpans Multi Media Workshops every Monday ( 9 Students) 
+* Employability ( 8 Students) 
 
 We will use a mixed environment of technology; tablets, PCs and laptops, office and free software, just as in the real world. We have a donated suite of 10 desktop PC’s all windows, thanks to the TT-Exchange program we have licensed versions of Windows 7. We use free or online version of software including Google Picasa, to manage the photography workshops. This grant will allow us to buy enough tablets so we can have two and sometimes three workshops using them at once.
 
@@ -40,9 +40,9 @@ We also have a similar ‘framework’ approach to equipping our students with s
 
 ### Planned project milestones
 
-* First purchases and staff training starts at the start of December. Staff will receive training from Quarriers based upon their proven Go For It sessions. We will start planning the first workshops; Photography and Social Media workshops first. First purchases include 8 android tablets a secure housing and charging station and 3 wireless hubs: April 2016
+* We made our rirst purchases and staff training started at the start of May. s; Photography and Social Media workshops first. First purchases include 8 iPad tablets a secure housing and charging station and 3 wireless hubs: This is progress up to April 2016
 
-* Staff complete lesson plans for all 4 workshops (Photography + Social Media + Cafe project + Preston pans Multi media). By the end of December: staff will also have completed the soft rollout of the program. After reviewing initial evaluation they will have lesson plans developed for the first block of all four workshops. This milestone includes incremental costs for staff time. Both facilitator and Education and curriculum Manager. A baseline version of the Digital Skills test will be taken: May 2016
+* Staff have completed lesson plans for all 4 workshops (Photography + Social Media + Cafe project + Employability). This was completed by the end of May: staff have planned and implemented the soft rollout of the program. After reviewing initial evaluation they will have lesson plans developed for the first block of all four workshops.Staff received training from Quarriers based upon their proven Go For It sessions. We have started planning the first workshop. This milestone includes incremental costs for staff time. Both facilitator and Education and curriculum Manager. A baseline version of the Digital Skills test will be taken at end of June: May 2016
 
 * Internal analysis and evaluation, corrective steps if necessary. The first 12 week block of workshops will be completed for all four workshops. The first evaluation will be in and we will have a good idea of what is working well and what needs more work. Facilitator evaluation will be ongoing, but will be formally recorded here: August 2016
 
