@@ -42,7 +42,9 @@ We also have a similar ‘framework’ approach to equipping our students with s
 
 * First purchases and staff training starts at the start of December. Staff will receive training from Quarriers based upon their proven Go For It sessions. We will start planning the first workshops; Photography and Social Media workshops first. First purchases include 8 android tablets a secure housing and charging station and 3 wireless hubs: April 2016
 
-* Staff complete lesson plans for all 4 workshops (Photography + Social Media + Cafe project + Preston pans Multi media). By the end of December: staff will also have completed the soft rollout of the program. After reviewing initial evaluation they will have lesson plans developed for the first block of all four workshops. This milestone includes incremental costs for staff time. Both facilitator and Education and curriculum Manager. A baseline version of the Digital Skills test will be taken: May 2016
+* Staff complete lesson plans for all 4 workshops (Photography + Social Media + Cafe project + Preston pans Multi media). By the end of December: staff will also have completed the soft rollout of the program. After reviewing initial evaluation they will have lesson plans developed for the first block of all four workshops. This milestone includes incremental costs for staff time. Both facilitator and Education and curriculum Manager. A baseline version of the Digital Skills test will be taken: July 2016
+* 
+Lesson plans created and audited July 2016
 
 * Internal analysis and evaluation, corrective steps if necessary. The first 12 week block of workshops will be completed for all four workshops. The first evaluation will be in and we will have a good idea of what is working well and what needs more work. Facilitator evaluation will be ongoing, but will be formally recorded here: August 2016
 
