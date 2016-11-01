@@ -54,11 +54,11 @@ We also have a similar ‘framework’ approach to equipping our students with s
 
 **Target - First purchases and staff training starts.** 
 
-* Staff will receive training from Ouarriers. Based upon their Go For It sessions. **Booked provisionally for 17th May.  Staff identified and freed up.** 
+* Staff will receive training from Quarriers. Based upon their Go For It sessions. **Booked provisionally for 17th May.  Staff identified and freed up.** This was completed and 
 
-* We will start planning the first workshops. **Already done – introductory sessions with each planned and booked for 23rd May** 
+* We will start planning the first workshops. **Already done – introductory sessions with each planned and booked for 23rd May**Completed 
 
-* Launching with the Photography and Social Media workshops first. First purchases include 8 android tablets a secure housing and charging station and 3 wireless hubs.  **All purchased and all arrived except the charging station.**
+* Launching with the Photography and Social Media workshops first. First purchases include 8 android tablets a secure housing and charging station and 3 wireless hubs.  **All purchased and all arrived except the charging station.** charging station now arrived and constructed too
 
 
 **Progress this month.** 
@@ -69,7 +69,7 @@ All purchasing has been completed.  8 iPads have been purchased, with covers and
 
 *2. Workshops* 
 
-Facilitators have been identified, and discussion of the trial has taken place with them.  The initial plans have been completed with all so everyone has a starting point.  This has use of iPad built into it, for the students and the staff.  IPad set up time has been set up for 2/5/16 with the assistance of 3 of the facilitators (1 cannot attend).  All staff had refresher training booked on Apple software currently in use as a refresher in advance. 
+Facilitators have been identified, and discussion of the trial has taken place with them.  The initial plans have been completed with all so everyone has a starting point.  This has use of iPad built into it, for the students and the staff.  IPad set up time has been set up for 2/5/16 with the assistance of 3 of the facilitators (1 cannot attend but will have training cascaded).  All staff had refresher training booked on Apple software currently in use as a refresher in advance. 
 
 *3. Training* 
 
@@ -77,13 +77,15 @@ Training provisionally booked for 17th May, all staff attending aware, waiting o
 
 **Next steps** 
 
-Staff complete lesson plans and first block of training 21st May 2016 
+Staff complete lesson plans and first block of training 21st May 2016 - Done
 
-First workshops with integrated IT outcomes start 23rd May 2016 
+First workshops with integrated IT outcomes start 23rd May 2016 - Done
 
-Baseline survey for Basic Digital Skills completed 27th May 2016 
+Baseline survey for Basic Digital Skills completed 27th May 2016 - Done
 
-First 12 week block completed – First evaluation 5th August 2016 
+First 12 week block completed – First evaluation 5th August 2016 - Done and submitted
+
+Final evaluations being completed week beginning 31/10/16 - to be submitted at end of November once compiled
 
 
 ### Planned outputs and outcomes
@@ -98,8 +100,20 @@ First 12 week block completed – First evaluation 5th August 2016
 
 ### Evaluation
 
+* Photography workshop every Monday (8 Students) 
+We have used the iPads as cameras, a lot of our students find the digital camera too fiddly to use, not so much in buttons but in how small the screen is.  When we have the big screens of the iPad it allows more preplanning of what shots are taken, we take less shots, but have more discussion surrounding what shots we do take.  In terms of what we do after.  We can edit the shots more easily using the iPhoto software.  This means we can actually either edit when we return or even edit in the minibus on the way back, we can have lots more opportunities to see each picture, and we have also brought in editing as a group using the projector.  This has set up new oppurtunities to open out the workshop.
 
-### Lessons learned
+* Social Media awareness every Thursday (5 Students) 
+We are looking into social media sites, our computers are so old that we could not really use these for this task.  We have been using these to look at each social network but what has been even better is how the workshop has been able to link in with other students.  We can use the iPad with the projector to do live info and training on social media with the social media on screen as an example.  We can do live updates and it’s so much more reliable.
+* Cafe project every Monday/Tuesday (8 Students) 
+The café is in a transitional phase right now.  We are currently open 2 days and hope to be open 3 soon.  Currently the iPads are used before and after the cooking and selling.  We hope to use it during cooking too very soon, taking it to the next level.  At the end of the day, we use the iPads to order the materials.  We have found a money planning App which we use to set the budget for the next week, at first the students were surprised at how much things cost, but are starting to get used to this style and getting faster with it.  Another advantage of using the iPads, is that we can check supplies in real time, wandering around to see what we need.  Prior to making it, we use the Visual Recipes app to plan out what we are doing that day.  This is accessible to all in the workshop, as opposed to written instructions.  Our next plan is to link the iPad to a Bluetooth till so students can take orders in a visual way using the following app
+Restaurant Management:
+Lightspeed Restaurant http://www.lightspeedhq.co.uk/pos/restaurant/features/
+
+* Prestonpans Multi Media Workshops every Monday ( 9 Students)
+Multimedia has been able to expand into a more cohesive film making experience.  The iPad acts as an all in one solution for getting the workshop to function.  In pre-production we use the Story app, to plan the shots.  This allows students to be in the moment with the experience, and it quickens it a lot as it allows generic drawings to be used for shots.  This means pre-production can be a 2 person job, and allows set creation and outfits at the same time.  Means that a film can be turned round much quicker.  During filming, we use the iPad as a camera, the students find it much easier as this is much larger and clearer than a regular camera screen.  This means we can have an additional stage when filming where we can plan the lighting and image, this means we can have people act more as the roles within filming, making it more worthwhile and work experience led.  We have made the buttons bigger and more accessible with the iPads accessibility section, the next stage for us is to find a way to mount to the camera.  We use iMovie to edit this (this comes free with the iPad), which the students are now familiar with.  We do this in a visual way using the smart board so that everyone can contribute to this.  Very visual and lets everyone take part to varying degrees.  I think the process itself is a lot quicker and more student friendly as a result. Most of the students are very tech savvy anyway, so the iPads are really good as an engagement tool, it’s made a huge difference.
+
+### Lessons learned to be updated at the end of November
 
 
 
